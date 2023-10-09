@@ -1,0 +1,92 @@
+*{
+    padding: 0vh 0vw;
+    margin: 0vh 0vw;
+}
+
+.navbar {
+    padding: 15px;
+    background-color: #433B2C;
+    background-size: cover;
+    height: 7.5vh;
+    max-width: 100%;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #E2DF96;
+    margin: 15px;
+    font-size: 30px;
+    float: right;
+}
+
+.navbar p {
+    color: #E2DF96;
+    width: fit-content;
+    font-size: 37.5px;
+    padding-left: 20px;
+}
+
+.navbar a:hover {
+    font-size: 37.5px;
+    margin-left: 10px;
+}
+
+.banner {
+    background-color: #C1D06C;
+    background-size: 100vh, 100vw;
+}
+
+.banner .sidebar {
+    font-size: 40px;
+    margin-left: 2vw;
+    border: 1px solid black;
+    width: 20vw;
+    height: 82.5vh;
+    text-align: center;
+    background-color: black;
+    display: inline-block;
+}
+
+.links a:hover {
+    font-size: 45px;
+}
+
+.banner .maincontent {
+    height: 30vh;
+    width: 42.5vw;
+    margin-left: 6vw;
+    text-align: center;
+    border: 1px solid black;
+    background-color: black;
+    display: inline-block;
+    padding: 1vh;
+    margin-top: 5vh;
+}
+
+.banner p {
+    color: white;
+}
+
+.banner h1 {
+    color: white;
+}
+
+.banner .sidebar .links {
+    text-decoration: none;
+    color: white;
+}
+
+.page {
+    display: inline-block;
+    margin-bottom: 1vw;
+}
+
+.banner .sidebarimg  {
+    float: right;
+    margin-right: 2vw;
+    background-color: black;
+    width: 20vw;
+    height: 82.5vh;
+    text-align: center;
+    color: white;
+}
